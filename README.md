@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PHP Symfony**
 
-- 👨‍💻 Some of my projects are available at [nesx64.github.io](nesx64.github.io)
+- 👨‍💻 Some of my projects are available at [nesx64.github.io](https://nesx64.github.io)
 
 - 📫 How to reach me **loan.collomb@u-bordeaux.fr**
 
