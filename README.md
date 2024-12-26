@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm nes</h1>
+<h1 align="center">Hi 👋, I'm Loan</h1>
 <h3 align="center">A Japanese language learner, also studying computer science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nesx64&label=Profile%20views&color=0e75b6&style=flat" alt="nesx64" /> </p>
 
-- 🌱 I’m currently learning **PHP Symfony**
+- 🌱 I’m currently learning **C++ & QT**
 
 - 👨‍💻 Some of my projects are available at [nesx64](https://nesx64.fr)
 
