@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++ & QT**
 
-- 👨‍💻 Some of my projects are available at [nesx64](https://nesx64.fr)
+- 👨‍💻 Some of my projects are available at [loqn](https://loqn.fr)
 
 - 📫 How to reach me **loan.collomb@u-bordeaux.fr**
 
