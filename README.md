@@ -50,7 +50,6 @@
   <table width="100%">
     <!-- ROW 1: Core Web & Languages -->
     <tr>
-      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=html" width="40px"/><br>HTML</td>
       <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=css" width="40px"/><br>CSS</td>
       <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=js" width="40px"/><br>JS</td>
       <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=react" width="40px"/><br>React</td>
