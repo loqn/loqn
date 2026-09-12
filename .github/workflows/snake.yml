@@ -13,6 +13,11 @@ on:
     branches:
     - main
 
+# ⬇️ ADD THESE LINES HERE TO UNLOCK PUSH PERMISSIONS ⬇️
+permissions:
+  contents: write
+# ⬆️ THIS FIXES THE 403 ERROR ⬆️
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -31,7 +36,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
       # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file>
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
