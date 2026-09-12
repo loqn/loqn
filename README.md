@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/loqn/loqn/blob/sinan.png" width="100%" />
+  <img src="https://github.com/loqn/loqn/blob/main/sinan.png" width="100%" />
 </p>
 
 <p align="center">
