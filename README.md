@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/loqn/loqn/blob/Who I Am.png" width="100%" />
+  <img src="https://github.com/loqn/loqn/blob/main/Who%20I%20Am.png" width="100%" />
 </p> 
 
 <div align="center">
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="200" align="center">
-      <img src="https://github.com/loqn/loqn/blob/right(4).jpg" width="150px"/>
+      <img src="https://github.com/loqn/loqn/blob/main/right%20(4).jpg" width="150px"/>
     </td>
     <td align="center">
       <table border="0" cellspacing="0" cellpadding="8">
@@ -34,7 +34,7 @@
       </table>
     </td>
     <td width="200" align="center">
-      <img src="https://github.com/loqn/loqn/blob/right(1).jpg" width="150px"/>
+      <img src="https://github.com/loqn/loqn/blob/main/right%20(1).jpg" width="150px"/>
     </td>
   </tr>
 </table>
@@ -105,11 +105,11 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/loqn/loqn/blob/FAV_BOOK.png" width="100%" />
+  <img src="https://github.com/loqn/loqn/blob/main/FAV_BOOK.png" width="100%" />
 </p>
 
 <div align="center">
-  <img src="https://github.com/loqn/loqn/blob/books.png" width="100%" />
+  <img src="https://github.com/loqn/loqn/blob/main/books.png" width="100%" />
 </div>
 
 <picture>
@@ -119,5 +119,5 @@
 </picture>
 
 <p align="center">
-  <img src="https://github.com/loqn/loqn/blob/8381bd3ddcf6319dc25f986d6bb9becb592d10e4/REPO.png" width="100%" />
+  <img src="https://github.com/loqn/loqn/blob/main/REPO.png" width="100%" />
 </p>
