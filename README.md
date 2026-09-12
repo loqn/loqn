@@ -24,7 +24,7 @@
           <th>Kaggle</th>
         </tr>
         <tr>
-          <td align="center"><br><a href="https://www.linkedin.com/in/zeronesec/" title="Linkedin"><img src="https://cdn.jsdelivr.net/gh/yogeshwaran01/yogeshwaran01@latest/svgs/linkedin.svg" alt="Linkedin" width="40px" height="40px"></a><br><br></td>
+          <td align="center"><br><a href="https://www.linkedin.com/in/aidev/" title="Linkedin"><img src="https://cdn.jsdelivr.net/gh/yogeshwaran01/yogeshwaran01@latest/svgs/linkedin.svg" alt="Linkedin" width="40px" height="40px"></a><br><br></td>
           <td align="center"><br><a href="https://x.com/0xctf" title="X (Twitter)"><img src="https://cdn.jsdelivr.net/gh/yogeshwaran01/yogeshwaran01@latest/svgs/x.svg" alt="X" width="40px" height="40px"></a><br><br></td>
           <td align="center"><br><a href="mailto:pwnflash@gmail.com" title="Gmail"><img src="https://cdn.jsdelivr.net/gh/yogeshwaran01/yogeshwaran01@latest/svgs/gmail.svg" alt="Gmail" width="40px" height="40px"></a><br><br></td>
           <td align="center"><br><a href="https://loqn.github.io/" title="Website"><img src="https://cdn.jsdelivr.net/gh/yogeshwaran01/yogeshwaran01@latest/svgs/website.svg" alt="Website" width="40px" height="40px"></a><br><br></td>
