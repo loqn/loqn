@@ -43,7 +43,7 @@
 ![](https://raw.githubusercontent.com/loqn/loqn/main/profile-3d-contrib/profile-night-green.svg)
 
 <p align="center">
-  <img src="https://github.com/loqn/loqn/blob/skill.png" width="100%" />
+  <img src="https://github.com/loqn/loqn/blob/main/skill.png" width="100%" />
 </p>
 
 <div align="center">
